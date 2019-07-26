@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "spiders/douban_movie.py", line 6, in <module>
+    from spiders.doubanproxy import getRandomIP,removeProxyIP
+ModuleNotFoundError: No module named 'spiders'
